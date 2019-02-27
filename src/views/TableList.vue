@@ -1,5 +1,5 @@
 <template>
-  <div class="app-notfound">
-    <h1>404 NotFound</h1>
+  <div class="main-table-list">
+    <h1>欢迎回来，{{$store.state.adminName}}</h1>
   </div>
 </template>
